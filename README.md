@@ -8,6 +8,9 @@ Paquetes usados
 - express : https://www.npmjs.com/package/express
 - socket :  https://www.npmjs.com/package/socket.io
 
+Web heroku
+- https://sockets-jamnode.herokuapp.com/
+
 Consola
 - npm i express
 - npm i socket.io
