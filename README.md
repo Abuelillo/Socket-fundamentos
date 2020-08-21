@@ -11,6 +11,9 @@ Paquetes usados
 Web heroku
 - https://sockets-jamnode.herokuapp.com/
 
+Web Consola
+- socket.emit('enviarMensaje',{usuario:'Pedro',mensaje:'Hola a todos'})
+
 Consola
 - npm i express
 - npm i socket.io
